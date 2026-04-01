@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameBrainExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5abfb56b306798807e8742943948aaa0c62a61e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9936987db16cf822f7e6d2a46f62f175251ac0ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameBrainExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameBrainExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
